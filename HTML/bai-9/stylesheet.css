@@ -1,0 +1,19 @@
+#wrapper{
+    width: 450px;
+    height: 400px;
+    margin:0px auto;
+    border: double black;
+    background-image: url(letter.jpg);
+    padding: 20px 5px;
+    background-size: cover;
+}
+h3{
+    text-align: center;
+    color: red;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+.back{
+    float: right;
+    color: red;
+}
